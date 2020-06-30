@@ -1,0 +1,45 @@
+.Success {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  justify-content: center;
+}
+
+.Heading {
+  padding: 5px;
+  margin-top: 45px;
+  font-family: "europa", sans-serif;
+}
+.Success p {
+  font-size: 20px;
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  color: #141c3aa1;
+}
+
+.BackToHome {
+  margin: auto;
+  display: flex;
+  width: auto;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.BackToHome a {
+  background-color: transparent;
+  color: #7510f7;
+  border-radius: 290486px;
+  margin: auto;
+  border: 2px solid #7510f7;
+  width: 25%;
+  padding: 15px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.BackToHome a:hover,
+.BackToHome a:active,
+.BackToHome a.active {
+  color: white;
+  background-color: #7510f7;
+}

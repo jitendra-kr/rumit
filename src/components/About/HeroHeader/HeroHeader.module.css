@@ -1,0 +1,34 @@
+.HeroHeader {
+  text-align: center;
+  margin-top: 30px;
+}
+.DesignPhoto {
+  margin-top: 60px;
+}
+.ParaText {
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: #141c3a;
+}
+
+/* @media (min-width: 500px) and (min-height: 400px) {
+  .HeroHeader {
+    width: 200%;
+    height: 300px;
+  }
+}
+
+@media (min-width: 500px) and (min-height: 401px) {
+  .HeroHeader {
+    width: 200%;
+    height: 400px;
+  }
+}
+
+@media (min-width: 1000px) and (min-height: 700px) {
+  .HeroHeader {
+    width: 200%;
+    height: 600px;
+  }
+} */

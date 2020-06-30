@@ -1,0 +1,11 @@
+.About {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .About {
+    width: 768px;
+  }
+}

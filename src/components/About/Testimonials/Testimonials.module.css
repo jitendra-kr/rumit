@@ -1,0 +1,15 @@
+.Testimonials {
+  height: auto;
+  width: auto;
+  margin: auto;
+  margin-top: 100px;
+  background-color: white;
+}
+.Testimonials p {
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  line-height: 1.5;
+  font-size: 18px;
+  color: #141c3aa1;
+  margin-bottom: 2rem;
+}

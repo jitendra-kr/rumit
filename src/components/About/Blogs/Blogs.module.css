@@ -1,0 +1,65 @@
+.Blogs {
+  height: 400px;
+  width: auto;
+  margin: auto;
+  margin-top: 60px;
+  color: black;
+}
+
+.Heading {
+  padding-top: 85px;
+}
+.Blogs p {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  padding-top: 24px;
+  font-size: 18px;
+  padding-left: initial;
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  line-height: 1.5;
+  color: #141c3aa1;
+}
+
+.BlogGrid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 90%;
+  align-items: center;
+  margin-top: -150px;
+}
+
+.Line {
+  margin: auto;
+  margin-top: 120px;
+  border: 0.5px solid #e6ecf8;
+}
+
+.MoreBlogs {
+  margin: auto;
+  display: flex;
+  width: auto;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.MoreBlogs a {
+  background-color: transparent;
+  color: #7510f7;
+  border-radius: 290486px;
+  margin: auto;
+  border: 2px solid #7510f7;
+  width: 15%;
+  padding: 15px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.MoreBlogs a:hover,
+.MoreBlogs a:active,
+.MoreBlogs a.active {
+  color: white;
+  background-color: #7510f7;
+}

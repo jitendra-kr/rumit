@@ -1,0 +1,26 @@
+.HeroAbout {
+  background-color: #7510f7;
+  height: 400px;
+  padding-top: 110px;
+  width: 100%;
+}
+
+.HeroMainDescription {
+  width: 60%;
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+
+.HeroSubDescription {
+  width: 50%;
+  text-align: center;
+  color: #ffffffeb;
+  margin: auto;
+  padding-top: 24px;
+  font-size: 16px;
+  padding-left: initial;
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  line-height: 1.5;
+}

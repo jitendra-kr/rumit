@@ -1,0 +1,72 @@
+.Projects {
+  height: 400px;
+  width: auto;
+  margin: auto;
+  margin-top: 60px;
+  background-color: #7510f7;
+  color: white;
+}
+
+.Heading {
+  padding-top: 85px;
+}
+.Projects p {
+  width: 50%;
+  text-align: center;
+  color: #ffffffeb;
+  margin: auto;
+  padding-top: 24px;
+  font-size: 16px;
+  padding-left: initial;
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  line-height: 1.5;
+}
+
+.ProjectGrid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 90%;
+  padding-top: 60px;
+  align-items: center;
+  margin-top: -150px;
+}
+.Line {
+  margin: auto;
+  margin-top: 120px;
+  border: 0.5px solid #e6ecf8;
+}
+
+.MoreProjects {
+  margin: auto;
+  display: flex;
+  width: auto;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.MoreProjects a {
+  background-color: transparent;
+  color: #7510f7;
+  border-radius: 290486px;
+  margin: auto;
+  border: 2px solid #7510f7;
+  width: 15%;
+  padding: 15px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.MoreProjects a:hover,
+.MoreProjects a:active,
+.MoreProjects a.active {
+  color: white;
+  background-color: #7510f7;
+}
+
+.GithubIcon {
+  margin-bottom: -9px;
+  height: 30px;
+  width: 30px;
+}

@@ -1,0 +1,58 @@
+.Testimonial {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.Quote {
+  font-size: 20px;
+  font-family: "eurostile", sans-serif;
+  font-weight: 300;
+  max-width: 700px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.5;
+  color: #141c3acf;
+  margin-top: 30px;
+}
+
+.Testimonial p.Designation {
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  line-height: 1.5;
+  font-size: 15px;
+  color: #141c3aa1;
+  margin-top: -20px;
+}
+
+.Testimonial li {
+  padding: 5px;
+}
+.CrouselNav a {
+  display: inline-block;
+  margin: 0 6px;
+  width: 15px;
+  height: 15px;
+  border: 2px solid #e6ecf8;
+  border-radius: 50%;
+  cursor: pointer;
+  -webkit-transition: background-color 0.25s;
+  transition: background-color 0.25s;
+}
+
+.CrouselNav a:hover,
+.CrouselNav a:active,
+.CrouselNav a.active {
+  color: #7510f7;
+  background-color: #7510f7;
+}
+.CrouselNavBox {
+  margin: auto;
+  text-align: center;
+}
+ul.CrouselNavHeader {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  margin-right: 48px;
+}

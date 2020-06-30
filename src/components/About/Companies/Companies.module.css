@@ -1,0 +1,22 @@
+.Companies {
+  height: 350px;
+  width: auto;
+  margin: auto;
+  margin-top: 110px;
+}
+
+.Text {
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+.CompanyGrid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 90%;
+  padding-top: 20px;
+  align-items: center;
+  margin-top: 50px;
+}

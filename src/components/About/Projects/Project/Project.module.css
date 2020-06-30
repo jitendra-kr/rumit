@@ -1,0 +1,25 @@
+.Project {
+  padding: 0.75rem;
+  border-bottom: 0px solid #e6ecf8;
+  border-right: 1px solid #e6ecf8;
+  display: block;
+  width: 30%;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5), 0 0 0 1px #e6ecf8;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.Project p {
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+  line-height: 1.5;
+  font-size: 15px;
+  color: #141c3aa1;
+  margin-bottom: 2rem;
+}
+.Project h4 {
+  color: #7510f7;
+  font-family: "europa", sans-serif;
+  font-weight: 100;
+}
